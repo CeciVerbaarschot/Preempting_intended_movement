@@ -1,1 +1,1 @@
-Analysis codebase for the paper "Preempting intended movement: real-time intracortical decoding reveals a task-independent motor-cortical commitment to act." by Verbaarschot et al. (in prep).
+Analysis codebase for the paper "Real-time intracortical decoding from human motor cortex reveals a task-independent commitment to act that aligns with conscious intent." by Verbaarschot et al. (in prep).
